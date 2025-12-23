@@ -1488,6 +1488,12 @@ export default function App() {
           </div>
         </div>
       )}
+      {/* Footer Credit */}
+<div className="text-center mt-8 pb-6">
+  <p className={`${textSecondaryClass} text-xs opacity-50`}>
+    Made with ❤️ by Slyker
+  </p>
+</div>
     </div>
   );
 }
